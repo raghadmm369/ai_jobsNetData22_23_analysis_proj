@@ -4,4 +4,4 @@
 # وصف المشروع
 يتضمن هذا المشروع تحليل البيانات من موقع ai-jobs.net. يهدف التحليل إلى استخراج رؤى ذات مغزى وتقديمها في لوحة معلومات سهلة الاستخدام باستخدام plotly.
 # لوحة المعلومات
-يمكنك عرض لوحة المعلومات هنا https://ai-jobsnetdata22-23-dashboardplotly-app.onrender.com/
+يمكنك عرض لوحة المعلومات هنا https://ai-jobsnetdata22-23-dashboardplotly-app.onrender.com/)[here])
