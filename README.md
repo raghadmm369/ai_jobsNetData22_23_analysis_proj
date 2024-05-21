@@ -8,7 +8,7 @@ https://ai-jobsnetdata22-23-dashboardplotly-app.onrender.com/
 
 _________________
 # Project Title
-Data Analysis from ai-jobs.net Website
+Comparing Jobs and Salaries: 2022 vs.2023 Data from ai-jobs.net
 
 # Project Description
 This project includes data analysis from the ai-jobs.net website. The analysis aims to extract meaningful insights and present them in a user-friendly dashboard using plotly.
